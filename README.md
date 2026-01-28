@@ -6,8 +6,7 @@ This project showcases practical frontend development skills and best practices.
 ---
 
 ## 🌐 Live Demo
-🔗 https://dodoz-bharath.netlify.app  
-_(Update this link if deployed elsewhere)_
+🔗 https://dodoz-bharath.netlify.app
 
 ---
 
@@ -33,4 +32,5 @@ _(Update this link if deployed elsewhere)_
 ---
 
 ## 📂 Project Structure
+
 
