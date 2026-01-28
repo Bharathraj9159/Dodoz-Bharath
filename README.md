@@ -24,7 +24,7 @@ This project showcases practical frontend development skills and best practices.
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Framework / Library:** React.js
+- **Framework : Bootstrap
 - **Styling:** CSS / SCSS
 - **Version Control:** Git & GitHub
 - **Deployment:** Netlify / GitHub Pages
@@ -32,5 +32,6 @@ This project showcases practical frontend development skills and best practices.
 ---
 
 ## 📂 Project Structure
+
 
 
